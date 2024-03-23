@@ -6,6 +6,7 @@ function Blog() {
     <div className=" p-5">
       <CreatePost />
       <PostList />
+    h1
     </div>
   )
 }
